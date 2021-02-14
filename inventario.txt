@@ -1,0 +1,66 @@
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:1013
+Patrimonio do monitor.......:1014
+Matricula do cliente.........:1426
+Localização do ativo..........:Sala da TI, Bloco J
+Obs......................:Equipamento disponível.
+
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:1013
+Patrimonio do monitor.......:1014
+Matricula do cliente.........:1426
+Localização do ativo..........:Sala da TI, Bloco J
+Obs......................:Equipamento disponível.
+
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:1014
+Patrimonio do monitor.......:1015
+Matricula do cliente.........:39-01426
+Localização do ativo..........:Bloco J, primeiro andar, sala TI
+Obs......................:Disponivel para utilização.
+
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:1
+Patrimonio do monitor.......:1
+Matricula do cliente.........:1
+Localização do ativo..........:1
+Obs......................:1
+
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:1212
+Patrimonio do monitor.......:1212
+Matricula do cliente.........:1426
+Localização do ativo..........:Bloco J, sala da TI
+Obs......................:Equipamento disponivel para utilização.
+
+
+Hostname.............................:N-MBA-00274
+Serial Number....................:2JJP0L2
+Sistema Operacional..:Windows-10-10.0.18362-SP0
+Memória instalada.....................:8232374272
+Patrimonio.....................:2121
+Patrimonio do monitor.......:2121
+Matricula do cliente.........:2121
+Localização do ativo..........:Bloco J
+Obs......................:Disponível.
+
